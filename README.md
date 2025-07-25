@@ -33,20 +33,17 @@
 ###
 
 <div align="center">
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
+  <a href="www.linkedin.com/in/sandesh-acharya-7baa31295" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="https://instagram.com/yourusername" target="_blank">
+  <a href="https://www.instagram.com/sandesh_siuuu" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
   </a>
-  <a href="https://facebook.com/yourusername" target="_blank">
+  <a href="https://www.facebook.com/sandesh.acharya.218443" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" />
   </a>
-  <a href="https://www.hackerrank.com/yourusername" target="_blank">
+  <a href="http://hackerrank.com/profile/sandeshacharya23" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo" />
-  </a>
-  <a href="https://www.kaggle.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="kaggle logo" />
   </a>
 </div>
 
