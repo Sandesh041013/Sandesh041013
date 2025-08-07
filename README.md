@@ -1,6 +1,5 @@
 <!-- Profile Image and Greeting -->
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-username" height="120" alt="Sandesh Acharya" style="border-radius: 50%;" />
   <h1>नमस्ते 🙏 I'm Sandesh Acharya</h1>
   <p><em>Passionate Frontend Developer | Content Creator | Based in Nepal 🇳🇵</em></p>
 </div>
@@ -17,7 +16,7 @@
 ### 🛠️ My Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,py,firebase,ai,ps,canva,figma" height="55" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,py,firebase,ai,ps,canva,figma" height="55" />
 </div>
 
 ---
@@ -77,9 +76,4 @@
 
 > **Feel free to connect and collaborate — I’m always open to new ideas and teamwork! 🤝**
 
----
-
-✅ Replace `yourusername` with your actual GitHub username to make the stats and graphs work.  
-✅ You can customize the banner GIF and profile image URL as needed.  
-✅ Let me know if you want to add a **project showcase**, **blog posts**,
 
