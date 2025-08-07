@@ -1,63 +1,85 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
-
-<p align="center">
-  <strong>Hey, I am Sandesh Acharya, a passionate front-end developer from Nepal 🇳🇵</strong>
-</p>
-
-###
-
+<!-- Profile Image and Greeting -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="60" alt="illustrator logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="60" alt="photoshop logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=canva" height="60" alt="canva logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo" />
+  <img src="https://avatars.githubusercontent.com/u/your-username" height="120" alt="Sandesh Acharya" style="border-radius: 50%;" />
+  <h1>नमस्ते 🙏 I'm Sandesh Acharya</h1>
+  <p><em>Passionate Frontend Developer | Content Creator | Based in Nepal 🇳🇵</em></p>
 </div>
 
-###
+---
+
+<!-- GIF or aesthetic header banner -->
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" alt="coding gif" />
+</div>
+
+---
+
+### 🛠️ My Tech Stack
 
 <div align="center">
-  <a href="www.linkedin.com/in/sandesh-acharya-7baa31295" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,py,firebase,ai,ps,canva,figma" height="55" />
+</div>
+
+---
+
+### 🌐 Let's Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/sandesh-acharya-7baa31295" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
   </a>
   <a href="https://www.instagram.com/sandesh_siuuu" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" />
   </a>
   <a href="https://www.facebook.com/sandesh.acharya.218443" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="28" />
   </a>
   <a href="http://hackerrank.com/profile/sandeshacharya23" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo" />
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="28" />
   </a>
 </div>
 
-###
+---
+
+### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=yourusername&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=yourusername&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
+  <img src="https://streak-stats.demolab.com?user=yourusername&theme=radical&hide_border=false" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" height="180" />
 </div>
 
-###
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=gruvbox&no-bg=true&margin-w=15" height="120" />
+</div>
+
+---
+
+### 🍥 Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yourusername/yourusername/output/pacman-contribution-graph.svg">
 </picture>
+
+---
+
+### 🎥 Fun Fact About Me
+
+> I don’t just code. I love making content, creating videos, and capturing moments through the lens 📸.  
+> Let’s build something creative and powerful together!
+
+---
+
+> **Feel free to connect and collaborate — I’m always open to new ideas and teamwork! 🤝**
+
+---
+
+✅ Replace `yourusername` with your actual GitHub username to make the stats and graphs work.  
+✅ You can customize the banner GIF and profile image URL as needed.  
+✅ Let me know if you want to add a **project showcase**, **blog posts**,
+
